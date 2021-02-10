@@ -62,7 +62,7 @@ theme = "#1b1c1d"
 
   [params.logo]
   logoMark = ">"
-  logoText = "$ cd /home/"
+  logoText = "$ go run conifer.go"
   logoHomeLink = "/"
 
   [[params.social]]
