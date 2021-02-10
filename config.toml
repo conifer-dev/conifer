@@ -77,13 +77,6 @@ theme = "#1b1c1d"
   name = "github"
   url = "https://github.com/conifer-dev"
 
-  [[params.social]]
-  name = "linkedin"
-  url = "https://www.linkedin.com/"
-
-  [[params.social]]
-  name = "stackoverflow"
-  url = "https://www.stackoverflow.com/"
 
 [languages.en]
 subtitle = "Hello Friend NG Theme"
