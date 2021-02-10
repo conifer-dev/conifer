@@ -71,7 +71,7 @@ theme = "#1b1c1d"
 
   [[params.social]]
   name = "email"
-  url = "mailto:yuniper.pm.me"
+  url = "mailto:yuniper@pm.me"
 
   [[params.social]]
   name = "github"
