@@ -63,7 +63,7 @@ The story aimed to have three endings, bad, good and neutral where neither party
 
 Life* was a massive stepping stone for me when it comes to game development. I can't say it was overall an enormous disappointment to me. It taught me a lot, especially what it means to be organised and successfully writing a game design document, but most importantly, to be creative. This had a massive significance to me during my early ages as I suffered from depression. It was my way to cope and spread the message to other teenagers or young adults that you can win against the demons within you despite everything happening in your life and that you're never alone. 
 
-This project rubbed well on me as to this day I still want to spread this message to young adults and teenagers alike with games I plan to create in future, to create meaningful games that people can connect to. Games that help players find their inner peace and games to help players find comfort knowing that what they're going through isn't just them, they aren't alien for feeling how they feel.
+To this day I still want to spread this message to young adults and teenagers alike with games I plan to create in future, to create meaningful games that people can connect to. Games that help players find their inner peace and games to help players find comfort knowing that what they're going through isn't just them, they aren't alien for feeling how they feel.
 
 All-around I'm glad the game never came to light if anything I would instead call it a learning project.
 
