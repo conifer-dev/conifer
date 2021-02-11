@@ -34,7 +34,29 @@ However, she is a beautiful girl with a gorgeous smile which is very rarely seen
 ![chie_sketch](https://i.postimg.cc/85bfXdFt/chie-sketch.png#center)
 ![chie_final](https://i.postimg.cc/QCWXF1Lj/chie-web.png#center)
 
+I don't want to bore you with introducing the rest of the characters that belong to this dead project. Overall the game planned to have ten characters in total. Here's a brief list:
 
+Bullies - Three girls that persist their bullying against Chie.
+Fujioka Kimiko - A girl you could call a villain within the story. Kimiko despises Chie and is behind many vicious rumours to bring her down due to her conflicting love interest towards Taichi.
+Nishimura Satoshi - A fellow student, becomes best friend with Taichi. A support character/comedic relief.
+Shimizu Ayase - Laidback school nurse who loves to spend time drinking tea and listening to students worries. Was meant to have a lot of comedic relief duo with Satoshi.
+Moriyama Kinjiro - Schools Guard that is secretly in love with Ayase. Was to be prominent in the times where the story took place during the night in school.
+Yamazaki-Sensei - Homeroom Teacher of 1-F. A laidback teacher who loves to prank his students, and utterly oblivious to his surroundings.
+Tachibana Kenji & Tachibana Sachi- Taichi's parents.
+
+At this point, many people reading this can tell that this project was overly ambitious, and most certainly it was. There were many backgrounds (images to represent current location within the story) unfinished, no sound or music. The story carried on growing more complicated, branching out like a tree towards all possible directions. Overall I have to admit the fact that the game would be a massive flaw.
+
+Why?
+
+I think it has to be with the fact that I was completely new to game design and development and I dropped down the rabbit hole that every beginner drops down to... An ambitious and significant project with no experience or clear image of where you want to go. I hadn't worked on a previous project before that and was oblivious to the reality that you first have to create something smaller to make a big game or even handle an ambitious project. The biggest flaw of this project is that I took too much real-life inspiration to everything; it didn't feel creative; in fact, it lacked creativity. It almost felt like a biography that I only now, after reading the GDD realised, but an 18 years old me never knew how much effort you have to put into creating a game, even if it isn't a masterpiece.
+
+The story aimed to have three endings, bad, good and neutral where neither party get what they longed for, a story that ends with bittersweet after taste, but I wasn't satisfied with it either. I wanted to create only a good ending that would make players see the message that the game wants to portray. However, I know that this would only turn the game into a bland kinetic novel and not a visual novel, a game that would end up being boring to anyone within half an hour.
+
+Life* was a massive stepping stone for me when it comes to game development. I can't say it was overall an enormous disappointment to me. It taught me a lot, especially what it means to be organised and successfully writing a game design document, but most importantly, to be creative. This had a massive significance to me during my early ages as I suffered from depression. It was my way to cope and spread the message to other teenagers or young adults that you can win against the demons within you despite everything happening in your life and that you're never alone. 
+
+This project rubbed well on me as to this day I still want to spread this message to young adults and teenagers alike with games I plan to create in future, to create meaningful games that people can connect to. Games that help players find their inner peace and games to help players find comfort knowing that what they're going through isn't just them, they aren't alien for feeling how they feel.
+
+All-around I'm glad the game never came to light if anything I would instead call it a learning project.
 
 [go]: https://golang.org/
 
