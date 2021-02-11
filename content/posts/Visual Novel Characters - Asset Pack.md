@@ -1,7 +1,7 @@
 ---
 title: Visual Novel Characters - Asset Pack Released
 description: ''
-weight: 10
+weight: 1
 type:
   - posts
   - post
