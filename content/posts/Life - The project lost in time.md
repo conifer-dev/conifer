@@ -23,7 +23,7 @@ Battling depression, family breaking apart and the inevitable bullying that took
 The story aim was to portrait the ups and downs in our daily lives from a teenagers perspective. Our protagonist is Tachibana Taichi, a 15 years old teenage boy. An ordinary freshly enrolled high school student of class 1-F. He has short brown hair with his bangs placed in the left side. He as well wears glasses due to his weak eyesight.
 
 ![taichi_sketch](https://i.postimg.cc/MHMDCryz/taichi-sketch.png#center)
-![taichi_finished](https://i.postimg.cc/DZ4ZXtLV/taichi-web-post.png#center)
+
 
 
 His life progresses further the game as his family breaks down due divorce of his parents which causes character progression that drops him down to the spiral of depression. As the story unfolds, our protagonist's life will continue breaking down to contemplating suicide after his father's continuous abuse. However, our protagonist will have a chance to meet and befriend Chie, Takahashi Chie, a classmate of 1-F that Taichi belongs to.
