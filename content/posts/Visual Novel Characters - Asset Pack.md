@@ -15,7 +15,7 @@ series = ["Hugo 101"]
   name = "Hugo Authors"
 +++
 
-## Introduction to Go Templates
+## The Game that never saw 
 
 Go templates provide an extremely simple template language. It adheres to the
 belief that only the most basic of logic belongs in the template or view layer.
