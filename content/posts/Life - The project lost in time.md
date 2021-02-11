@@ -69,6 +69,8 @@ To this day I still want to spread this message to young adults and teenagers al
 
 **[You can find the asset pack for this project released on my itch.io page.](https://conifer-dev.itch.io/visual-novel-characters-asset-pack)**
 
+Thank you!
+
 
 [go]: https://golang.org/
 
