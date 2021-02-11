@@ -11,7 +11,6 @@ categories:
   - Assets
 series:
   - Portfolio
-  - Assets
 author:
   name: Conifer
 ---
