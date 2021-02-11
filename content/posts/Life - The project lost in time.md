@@ -38,9 +38,9 @@ I don't want to bore you with introducing the rest of the characters that belong
 
 - Bullies - Three girls that persist their bullying against Chie.
 
-Fujioka Kimiko - A girl you could call a villain within the story. Kimiko despises Chie and is behind many vicious rumours to bring her down due to her conflicting love interest towards Taichi.
+- Fujioka Kimiko - A girl you could call a villain within the story. Kimiko despises Chie and is behind many vicious rumours to bring her down due to her conflicting love interest towards Taichi.
 
-Nishimura Satoshi - A fellow student, becomes best friend with Taichi. A support character/comedic relief.
+- Nishimura Satoshi - A fellow student, becomes best friend with Taichi. A support character/comedic relief.
 
 Shimizu Ayase - Laidback school nurse who loves to spend time drinking tea and listening to students worries. Was meant to have a lot of comedic relief duo with Satoshi.
 
