@@ -19,7 +19,7 @@ author:
 
 Battling depression, family breaking apart and the inevitable bullying that took place in school, but lastly of love and how having just one person in your life can make a difference. To show that no matter what is going through your life, you're never alone.
 
-The story aim was to portrait the good parts of life, but also the bad. Our protagonist is Tachibana Taichi, a 15 years old teenage boy. An ordinary freshly enrolled high school student of class 1-F. He has short brown hair with his bangs placed in the left side. He as well wears glasses due to his weak eyesight.
+The story aim was to portrait the ups and downs in our daily lives. Our protagonist is Tachibana Taichi, a 15 years old teenage boy. An ordinary freshly enrolled high school student of class 1-F. He has short brown hair with his bangs placed in the left side. He as well wears glasses due to his weak eyesight.
 
 ![taichi_sketch](https://i.postimg.cc/MHMDCryz/taichi-sketch.png#center)
 ![taichi_finished](https://i.postimg.cc/DZ4ZXtLV/taichi-web-post.png#center)
