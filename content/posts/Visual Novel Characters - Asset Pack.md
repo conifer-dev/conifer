@@ -16,7 +16,6 @@ author:
 ---
 ## VN Character Asset Pack
 
-[align center]
 ![](https://i.ibb.co/DVKs5dm/vnassets-webpage.png)
 
 
