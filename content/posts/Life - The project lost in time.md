@@ -24,8 +24,6 @@ The story aim was to portrait the ups and downs in our daily lives from a teenag
 
 ![taichi_sketch](https://i.postimg.cc/MHMDCryz/taichi-sketch.png#center)
 
-
-
 His life progresses further the game as his family breaks down due divorce of his parents which causes character progression that drops him down to the spiral of depression. As the story unfolds, our protagonist's life will continue breaking down to contemplating suicide after his father's continuous abuse. However, our protagonist will have a chance to meet and befriend Chie, Takahashi Chie, a classmate of 1-F that Taichi belongs to.
 
 Chie is a 15 years old teenage girl with a slender body, freshly enrolled high school student of class 1-F. She's around 4'8'', has medium-sized black hair with light brown eye colour. She as well wears glasses due to weak eyesight. Our second protagonist grew up in a low-income family, which turns out to be a root cause of her being bullied by a group of girls from class 1-F. She's a shy and socially awkward girl. 
