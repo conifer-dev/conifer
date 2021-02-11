@@ -1,6 +1,6 @@
 ---
 title: Visual Novel Characters - Asset Pack Released
-description: 'And why Im glad it never released.'
+description: ''
 weight: 1
 type:
   - posts
