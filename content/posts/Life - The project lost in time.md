@@ -8,7 +8,7 @@ tags:
   - Portfolio
 date: 11-02-2021
 categories:
-  - Assets
+  - Portfolio
 series:
   - Portfolio
 author:
