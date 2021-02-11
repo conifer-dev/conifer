@@ -14,13 +14,6 @@ series:
   - Portfolio
 author:
   name: Conifer
-  
-tags = [
-    "go",
-    "golang",
-    "templates",
-    "themes",
-    "development",
 ---
 
 **A** game that never seen its finalised production back in 2013 aimed to be created using the Ren'Py engine. It was a visual novel game that showed the difficulties teenagers went through in their teenage life stages. 
