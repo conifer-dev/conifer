@@ -31,7 +31,6 @@ Chie is 15 years old teenage girl with a slender body, freshly enrolled high sch
  
 Our second protagonist grew up in a low-income family, which turns out to be a root cause of her being bullied by a group of girls from class 1-F. She's a shy and socially awkward girl. However, she is a beautiful girl with a gorgeous smile which is very rarely seen.
 
-She has a slender body and comes tidily to school in her uniform.
 By nature, she is a kind and lovely girl who loves animal, and in future, she wants to become a veterinarian.
 
 ![chie_sketch](https://i.postimg.cc/85bfXdFt/chie-sketch.png#center)
