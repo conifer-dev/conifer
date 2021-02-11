@@ -12,7 +12,7 @@ categories = [
 ]
 series = ["Hugo 101"]
 [ author ]
-  name = "Hugo Authors"
+  name = "Conifer"
 +++
 
 ## Introduction to VN Character Asset Pack
