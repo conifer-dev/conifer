@@ -10,7 +10,7 @@ categories = [
     "Assets",
     "Portfolio",
 ]
-series = ["Hugo 101"]
+series = ["Portfolio"]
 [ author ]
   name = "Conifer"
 +++
