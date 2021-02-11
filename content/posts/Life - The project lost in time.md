@@ -65,7 +65,7 @@ Life* was a massive stepping stone for me when it comes to game development. I c
 
 To this day I still want to spread this message to young adults and teenagers alike with games I plan to create in future, to create meaningful games that people can connect to. Games that help players find their inner peace and games to help players find comfort knowing that what they're going through isn't just them, they aren't alien for feeling how they feel.
 
-**All-around** I'm glad the game never came to light if anything I would instead call it a learning project. [You can find the asset pack for this project released on my itch.io page.](https://conifer-dev.itch.io/visual-novel-characters-asset-pack)
+**All-around** I'm glad the game never came to light if anything I would instead call it a learning project. **[You can find the asset pack for this project released on my itch.io page.](https://conifer-dev.itch.io/visual-novel-characters-asset-pack)**
 
 [go]: https://golang.org/
 
