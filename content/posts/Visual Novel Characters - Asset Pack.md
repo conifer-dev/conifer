@@ -17,7 +17,7 @@ series = ["Portfolio"]
 
 ## Introduction to VN Character Asset Pack
 
-
+A hugr 176 files of art for a Visual Novel Game 
 
 [go]: https://golang.org/
 [gohtmltemplate]: https://golang.org/pkg/html/template/
