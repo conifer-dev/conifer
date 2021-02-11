@@ -1,5 +1,5 @@
 +++
-title = "(Hu)go Template Primer"
+title = "Visual Novel Characters - Asset Pack Released"
 description = ""
 type = ["posts","post"]
 tags = [
