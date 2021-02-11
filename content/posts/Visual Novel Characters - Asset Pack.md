@@ -17,7 +17,7 @@ series = ["Portfolio"]
 
 ## Introduction to VN Character Asset Pack
 
-A huge 176 files of art for a Visual Novel Game was just released on my [itch.io](https://conifer-dev.itch.io/visual-novel-characters-asset-pack) page
+A large 176 files of art for a Visual Novel Game was just released on my [itch.io](https://conifer-dev.itch.io/visual-novel-characters-asset-pack) page
 
 [go]: https://golang.org/
 [gohtmltemplate]: https://golang.org/pkg/html/template/
