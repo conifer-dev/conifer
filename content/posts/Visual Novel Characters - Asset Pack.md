@@ -1,6 +1,5 @@
 ---
 title: Visual Novel Characters - Asset Pack Released
-linktitle: Creating a New Theme
 description: ''
 type:
   - posts
