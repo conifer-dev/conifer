@@ -48,7 +48,7 @@ I don't want to bore you with introducing the rest of the characters that belong
 
 - Yamazaki-Sensei - Homeroom Teacher of 1-F. A laidback teacher who loves to prank his students, and utterly oblivious to his surroundings.
 
-Tachibana Kenji & Tachibana Sachi- Taichi's parents.
+- Tachibana Kenji & Tachibana Sachi- Taichi's parents.
 
 At this point, many people reading this can tell that this project was overly ambitious, and most certainly it was. There were many backgrounds (images to represent current location within the story) unfinished, no sound or music. The story carried on growing more complicated, branching out like a tree towards all possible directions. Overall I have to admit the fact that the game would be a massive flaw.
 
