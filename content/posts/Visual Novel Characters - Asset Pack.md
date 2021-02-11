@@ -17,7 +17,6 @@ series = ["Portfolio"]
 
 ## Introduction to VN Character Asset Pack
 
-This
 
 
 [go]: https://golang.org/
