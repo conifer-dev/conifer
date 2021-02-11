@@ -1,6 +1,6 @@
 ---
 title: Life* - A project lost in time
-description: 'And why was it a flop.'
+description: 'And why it was a flop.'
 weight: 2
 type:
   - posts
