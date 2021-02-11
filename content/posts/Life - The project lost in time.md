@@ -1,6 +1,6 @@
 ---
 title: Life* - A project lost in time
-description: ''
+description: 'Dissecting'
 weight: 2
 type:
   - posts
