@@ -8,7 +8,6 @@ tags = [
 date = "2014-04-02"
 categories = [
     "Assets",
-    "Portfolio",
 ]
 series = ["Portfolio"]
 [ author ]
