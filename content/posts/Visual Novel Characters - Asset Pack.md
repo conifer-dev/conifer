@@ -18,7 +18,7 @@ series = ["Portfolio"]
 
 A large folder of art that totals 176 files of art for a Visual Novel Game was just released on my [itch.io](https://conifer-dev.itch.io/visual-novel-characters-asset-pack) page.
 
-The main purpose to release 
+As the game I worked on back in 2013 never seen it's 
 
 [go]: https://golang.org/
 [gohtmltemplate]: https://golang.org/pkg/html/template/
