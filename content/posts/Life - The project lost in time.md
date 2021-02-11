@@ -1,6 +1,6 @@
 ---
 title: Life* - The project lost in time
-description: ''
+description: 'Test description'
 type:
   - posts
   - post
