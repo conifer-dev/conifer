@@ -46,7 +46,7 @@ I don't want to bore you with introducing the rest of the characters that belong
 
 - Moriyama Kinjiro - Schools Guard that is secretly in love with Ayase. Was to be prominent in the times where the story took place during the night in school.
 
-Yamazaki-Sensei - Homeroom Teacher of 1-F. A laidback teacher who loves to prank his students, and utterly oblivious to his surroundings.
+- Yamazaki-Sensei - Homeroom Teacher of 1-F. A laidback teacher who loves to prank his students, and utterly oblivious to his surroundings.
 
 Tachibana Kenji & Tachibana Sachi- Taichi's parents.
 
