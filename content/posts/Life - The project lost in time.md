@@ -16,7 +16,7 @@ author:
 ---
 ## VN Character Asset Pack
 
-Life*
+### Life*
 
 A game that never seen its finalised production back in 2013 aimed to be created using the Ren'Py engine. It was a visual novel game that showed the difficulties teenagers went through in their teenage life stages. Battling depression, family breaking apart and the inevitable bullying that took place in school, but lastly of love and how having just one person in your life can make a difference. To show that no matter what is going through your life, you're never alone.
 
