@@ -16,8 +16,6 @@ author:
 ---
 ## VN Character Asset Pack
 
-### Life*
-
 A game that never seen its finalised production back in 2013 aimed to be created using the Ren'Py engine. It was a visual novel game that showed the difficulties teenagers went through in their teenage life stages. Battling depression, family breaking apart and the inevitable bullying that took place in school, but lastly of love and how having just one person in your life can make a difference. To show that no matter what is going through your life, you're never alone.
 
 The story aim was to portrait the good parts of life, but also the bad. Our protagonist is Tachibana Taichi, a 15 years old teenage boy. An ordinary freshly enrolled high school student of class 1-F. He has short brown hair with his bangs placed in the left side. He as well wears glasses due to his weak eyesight.
