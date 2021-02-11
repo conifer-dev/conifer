@@ -58,7 +58,7 @@ I think it has to be with the fact that I was completely new to game design and 
 
 Visual Novels are content-heavy games. You not only have to worry about a story but also music/BGM's to fit the atmosphere in the current situation your player is at and Backgrounds to represent the location. I had neither! At this point, the game would end up being pushed further few years to be developed as sourcing artists and gathering budget to pay them for the work takes a long time. I solely funded the project as I worked full-time; most of the spare money I had gone towards the development budget. 
 
-Can a beginner hold out developing an enormous project like this? I dare to differ. As time goes by, you lose interest because there is no evident result showing up. Yet another mistake I've made as a beginner!
+Can a beginner hold out developing an enormous project like this? I dare to differ. As time goes by, you lose interest because there is no evident result showing up. Yet another mistake I've made!
 
 The story intended to have three endings, bad, good and neutral where neither party get what they longed for, a story that ends with bittersweet after taste, but I wasn't satisfied with it either. I wanted to create only a good ending that would make players see the message that the game wants to portray, showing only the good parts about life. However, I know that this would only turn the game into a bland kinetic novel and not a visual novel, a game that would end up being boring to anyone within half an hour.
 
