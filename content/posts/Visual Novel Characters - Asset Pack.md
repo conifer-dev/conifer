@@ -14,7 +14,7 @@ series = ["Portfolio"]
   name = "Conifer"
 +++
 
-## Introduction to VN Character Asset Pack
+## VN Character Asset Pack
 
 A large folder of art that totals 176 files of art for a Visual Novel styled game was just released on my [itch.io](https://conifer-dev.itch.io/visual-novel-characters-asset-pack) page.
 
