@@ -5,7 +5,7 @@ type:
   - posts
   - post
 tags:
-  - Assets
+  - Portfolio
 date: 11-02-2021
 categories:
   - Assets
