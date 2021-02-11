@@ -1,6 +1,6 @@
 ---
 title: Life* - A project lost in time
-description: 'Dissecting old GDD and why Im glad the game never released.'
+description: 'Dissecting old GDD and why I\'m glad the game never released.'
 weight: 2
 type:
   - posts
