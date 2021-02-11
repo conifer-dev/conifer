@@ -52,7 +52,7 @@ As you were to play the game, you were to be met with challenges. Choosing the w
 
 At this point, many people reading this can tell that this project was overly ambitious, and most certainly it was. There were no backgrounds (images to represent the current location of the player/story), no sound or music. The story carried on growing more complicated, branching out like a tree towards all possible directions. Overall I have to admit the fact that the game would be a massive flaw.
 
-**Why?**
+**But Why a flaw you ask?**
 
 I think it has to be with the fact that I was completely new to game design and development and I dropped down the rabbit hole that every beginner drops down to... An ambitious and significant project with no experience or clear image of where you want to go. I hadn't worked on a previous project before that and was oblivious to the reality that you first have to create something smaller to make a big game or even handle an ambitious project. The biggest flaw of this project is that I took too much real-life inspiration to everything; it didn't feel creative; in fact, it lacked creativity. It almost felt like a biography that I only now, after reading the GDD realised, but an 18 years old me never knew how much effort you have to put into creating a game, even if it isn't a masterpiece.
 
