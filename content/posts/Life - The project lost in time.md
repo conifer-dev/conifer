@@ -1,5 +1,5 @@
 ---
-title: Visual Novel Characters - Asset Pack Released
+title: Life* - The project lost in time
 description: ''
 type:
   - posts
