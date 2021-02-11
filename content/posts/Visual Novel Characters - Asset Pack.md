@@ -3,7 +3,7 @@ title = "Visual Novel Characters - Asset Pack Released"
 description = ""
 type = ["posts","post"]
 tags = [
-    "go",
+    "Assets",
     "golang",
     "templates",
     "themes",
