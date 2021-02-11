@@ -7,7 +7,7 @@ tags = [
 ]
 date = "2014-04-02"
 categories = [
-    "Development",
+    "Assets",
     "golang",
 ]
 series = ["Hugo 101"]
