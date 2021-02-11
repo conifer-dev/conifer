@@ -36,7 +36,7 @@ Our second protagonist grew up in a low-income family which is the main reason b
 
 By nature, she is a kind and lovely girl who loves animal, and in future, she wants to be a veterinarian.
 
-![taichi_finished](https://i.postimg.cc/gj646Btn/taichi-web-post.png#center)
+![taichi_finished](https://i.postimg.cc/85bfXdFt/chie-sketch.png#center)
 
 [go]: https://golang.org/
 
