@@ -15,6 +15,9 @@ series:
   - Assets
 author:
   name: Conifer
+tags:
+    - Portfolio
+    - Life*
 ---
 
 ## VN Character Asset Pack
