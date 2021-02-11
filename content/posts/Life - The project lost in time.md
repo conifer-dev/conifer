@@ -1,6 +1,6 @@
 ---
 title: Life* - The project lost in time
-description: 'Test description'
+description: 'A childhood project and why I'm glad I never released it.'
 type:
   - posts
   - post
