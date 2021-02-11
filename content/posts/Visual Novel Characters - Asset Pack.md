@@ -22,7 +22,7 @@ As the game, I worked on back in 2013 never seen it's light. The art continued t
 
 **In total, there are ten characters with multiple poses.**
 
-Once again, you can download the asset pack from my [itch.io](https://conifer-dev.itch.io/visual-novel-characters-asset-pack) page.
+**Once again, you can download the asset pack from my [itch.io](https://conifer-dev.itch.io/visual-novel-characters-asset-pack) page.**
 
 Please get in touch if you ever create anything with the asset pack! I would love to see the characters live and shine once again.
 
