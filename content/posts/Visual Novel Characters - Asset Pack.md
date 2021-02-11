@@ -17,7 +17,7 @@ series = ["Hugo 101"]
 
 ## Introduction to VN Character Asset Pack
 
-
+This
 
 ## Basic Syntax
 
