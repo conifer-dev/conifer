@@ -16,7 +16,7 @@ series:
 author:
   name: Conifer
 tags:
-    - Portfolio
+    - Release
     - Life*
 ---
 
