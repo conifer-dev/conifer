@@ -67,7 +67,6 @@ To this day I still want to spread this message to young adults and teenagers al
 
 **All-around** I'm glad the game never came to light if anything I would instead call it a learning project. **[You can find the asset pack for this project released on my itch.io page.](https://conifer-dev.itch.io/visual-novel-characters-asset-pack)**
 
-Thank you for taking your time to read through this wall of text
 
 [go]: https://golang.org/
 
