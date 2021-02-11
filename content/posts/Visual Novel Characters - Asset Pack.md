@@ -18,7 +18,7 @@ author:
 
 
 
-**center*![](https://i.ibb.co/DVKs5dm/vnassets-webpage.png)
+![](https://i.ibb.co/DVKs5dm/vnassets-webpage.png)
 
 
 
