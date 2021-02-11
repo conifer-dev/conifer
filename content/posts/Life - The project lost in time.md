@@ -34,6 +34,7 @@ Our second protagonist grew up in a low-income family, which turns out to be a r
 By nature, she is a kind and lovely girl who loves animal, and in future, she wants to become a veterinarian.
 
 ![chie_sketch](https://i.postimg.cc/85bfXdFt/chie-sketch.png#center)
+![chie_sketch](https://i.postimg.cc/85bfXdFt/chie-sketch.png#center)
 
 [go]: https://golang.org/
 
