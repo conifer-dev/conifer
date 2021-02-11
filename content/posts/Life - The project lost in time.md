@@ -31,7 +31,6 @@ Chie is a 15 years old teenage girl with a slender body, freshly enrolled high s
 However, she is a beautiful girl with a gorgeous smile which is very rarely seen. By nature, she is a kind and lovely girl who loves animal, and in future, she wants to become a veterinarian.
 
 ![chie_sketch](https://i.postimg.cc/85bfXdFt/chie-sketch.png#center)
-![chie_final](https://i.postimg.cc/QCWXF1Lj/chie-web.png#center)
 
 I don't want to bore you with introducing the rest of the characters that belong to this dead project. Overall the game planned to have ten characters in total. Here's a brief list:
 
