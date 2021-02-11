@@ -18,7 +18,6 @@ author:
 
 ![](https://i.ibb.co/DVKs5dm/vnassets-webpage.png)
 
-<p style="text-align: center;">Centered textdfgdfgdfgetgfgfdsgsg</p>
 
 A large folder of art that totals around 176 files of art for a Visual Novel styled game was just released on my [itch.io](https://conifer-dev.itch.io/visual-novel-characters-asset-pack) page.
 
