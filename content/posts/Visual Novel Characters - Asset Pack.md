@@ -1,15 +1,19 @@
 ---
-author:
-  name: "Michael Henderson"
-date: 11 Feb 2021
-linktitle: Creating a New Theme
+title: Visual Novel Characters - Asset Pack Released
+description: ''
 type:
-- post
-- posts
-title: Creating a New Theme
-weight: 10
+  - posts
+  - post
+tags:
+  - Assets
+date: 11-02-2021
+categories:
+  - Assets
 series:
-- Hugo 101
+  - Portfolio
+  - Assets
+author:
+  name: Conifer
 ---
 
 ## VN Character Asset Pack
