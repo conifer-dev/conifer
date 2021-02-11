@@ -48,13 +48,15 @@ I don't want to bore you with introducing the rest of the characters that belong
 
 - Tachibana Kenji & Tachibana Sachi- Taichi's parents.
 
-At this point, many people reading this can tell that this project was overly ambitious, and most certainly it was. There were many backgrounds (images to represent current location within the story) unfinished, no sound or music. The story carried on growing more complicated, branching out like a tree towards all possible directions. Overall I have to admit the fact that the game would be a massive flaw.
+As you were to play the game, you were to be met with challenges. Choosing the wrong or different options would lead to various branches of the story, eventually resulting in three different endings that we will discuss later below.
 
-**Why?**
+At this point, many people reading this can tell that this project was overly ambitious, and most certainly it was. There were no backgrounds (images to represent the current location of the player/story), no sound or music. The story carried on growing more complicated, branching out like a tree towards all possible directions. Overall I have to admit the fact that the game would be a massive flaw.
 
-I think it has to be with the fact that I was completely new to game design and development and I dropped down the rabbit hole that every beginner drops down to... An ambitious and significant project with no experience or clear image of where you want to go. I hadn't worked on a previous project before that and was oblivious to the reality that you first have to create something smaller to make a big game or even handle an ambitious project. 
+Why?
 
-The biggest flaw of this project is that I took too much real-life inspiration to everything; it didn't feel creative; in fact, it lacked creativity. It almost felt like a biography that I only now, after reading the GDD realised, but an 18 years old me never knew how much effort you have to put into creating a game, even if it isn't a masterpiece.
+I think it has to be with the fact that I was completely new to game design and development and I dropped down the rabbit hole that every beginner drops down to... An ambitious and significant project with no experience or clear image of where you want to go. I hadn't worked on a previous project before that and was oblivious to the reality that you first have to create something smaller to make a big game or even handle an ambitious project. The biggest flaw of this project is that I took too much real-life inspiration to everything; it didn't feel creative; in fact, it lacked creativity. It almost felt like a biography that I only now, after reading the GDD realised, but an 18 years old me never knew how much effort you have to put into creating a game, even if it isn't a masterpiece.
+
+Visual Novels are content-heavy games. You have to worry about a story and music/BGM's to fit the atmosphere in the current situation your player is at and Backgrounds to represent the location. I had neither, which was the most alarming situation for me because I had zero experience in sourcing music or finding good artists to make ones, not to mention the cost factor!
 
 The story intended to have three endings, bad, good and neutral where neither party get what they longed for, a story that ends with bittersweet after taste, but I wasn't satisfied with it either. I wanted to create only a good ending that would make players see the message that the game wants to portray, showing only the good parts about life. However, I know that this would only turn the game into a bland kinetic novel and not a visual novel, a game that would end up being boring to anyone within half an hour.
 
