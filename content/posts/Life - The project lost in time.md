@@ -1,7 +1,7 @@
 ---
 title: Life* - A project lost in time
 description: ''
-weight: 11
+weight: 2
 type:
   - posts
   - post
