@@ -31,9 +31,7 @@ His life progresses further the game as his family breaks down due divorce of hi
 
 Chie is a 15 years old teenage girl with a slender body, freshly enrolled high school student of class 1-F. She's around 4'8'', has medium-sized black hair with light brown eye colour. She as well wears glasses due to weak eyesight.
  
-Our second protagonist grew up in a low-income family, which turns out to be a root cause of her being bullied by a group of girls from class 1-F. She's a shy and socially awkward girl. However, she is a beautiful girl with a gorgeous smile which is very rarely seen.
-
-By nature, she is a kind and lovely girl who loves animal, and in future, she wants to become a veterinarian.
+Our second protagonist grew up in a low-income family, which turns out to be a root cause of her being bullied by a group of girls from class 1-F. She's a shy and socially awkward girl. However, she is a beautiful girl with a gorgeous smile which is very rarely seen. By nature, she is a kind and lovely girl who loves animal, and in future, she wants to become a veterinarian.
 
 ![chie_sketch](https://i.postimg.cc/85bfXdFt/chie-sketch.png#center)
 ![chie_final](https://i.postimg.cc/QCWXF1Lj/chie-web.png#center)
