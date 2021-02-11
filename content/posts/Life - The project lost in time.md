@@ -53,7 +53,7 @@ I don't want to bore you with introducing the rest of the characters that belong
 
 At this point, many people reading this can tell that this project was overly ambitious, and most certainly it was. There were many backgrounds (images to represent current location within the story) unfinished, no sound or music. The story carried on growing more complicated, branching out like a tree towards all possible directions. Overall I have to admit the fact that the game would be a massive flaw.
 
-Why?
+**Why?**
 
 I think it has to be with the fact that I was completely new to game design and development and I dropped down the rabbit hole that every beginner drops down to... An ambitious and significant project with no experience or clear image of where you want to go. I hadn't worked on a previous project before that and was oblivious to the reality that you first have to create something smaller to make a big game or even handle an ambitious project. 
 
