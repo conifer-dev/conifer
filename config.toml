@@ -42,7 +42,7 @@ series = "series"
 
 [params]
 dateform = "Feb 11, 2006"
-dateformShort = "Jan 2"
+dateformShort = "Feb 11"
 dateformNum = "2006-01-02"
 dateformNumTime = "2006-01-02 15:04"
 description = "Conifer - Inspiring Indie Game Dev"
