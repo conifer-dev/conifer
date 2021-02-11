@@ -18,6 +18,7 @@ author:
 
 <p align="center">
 ![](https://i.ibb.co/DVKs5dm/vnassets-webpage.png)
+</p>
 
 <p align="center">
   <img width="460" height="300" src="https://i.ibb.co/DVKs5dm/vnassets-webpage.png">
