@@ -42,7 +42,7 @@ I don't want to bore you with introducing the rest of the characters that belong
 
 - Nishimura Satoshi - A fellow student, becomes best friend with Taichi. A support character/comedic relief.
 
-Shimizu Ayase - Laidback school nurse who loves to spend time drinking tea and listening to students worries. Was meant to have a lot of comedic relief duo with Satoshi.
+- Shimizu Ayase - Laidback school nurse who loves to spend time drinking tea and listening to students worries. Was meant to have a lot of comedic relief duo with Satoshi.
 
 Moriyama Kinjiro - Schools Guard that is secretly in love with Ayase. Was to be prominent in the times where the story took place during the night in school.
 
