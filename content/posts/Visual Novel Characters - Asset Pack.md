@@ -15,7 +15,7 @@ series = ["Hugo 101"]
   name = "Hugo Authors"
 +++
 
-## About the VN Character Assets
+## Introduction to VN Character Assets
 
 
 
