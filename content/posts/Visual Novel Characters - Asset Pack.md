@@ -1,7 +1,7 @@
 ---
 author:
   name: "Michael Henderson"
-date: 11 Feb
+date: 11 Feb 2021
 linktitle: Creating a New Theme
 type:
 - post
