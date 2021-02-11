@@ -19,7 +19,7 @@ author:
 
 Battling depression, family breaking apart and the inevitable bullying that took place in school, but lastly of love and how having just one person in your life can make a difference. To show that no matter what is going through your life, you're never alone.
 
-Life* was my first ever ambitious project I worked on. Firstly I would love to explain the brief story and introduce you to our two protagonists
+Life* was my first ever ambitious project I worked on. Firstly I would love to explain the brief story and introduce you to our two protagonists and later explain why I'm glad the project never seen the light at the end of the tunnel.
 
 The story aim was to portrait the ups and downs in our daily lives. Our protagonist is Tachibana Taichi, a 15 years old teenage boy. An ordinary freshly enrolled high school student of class 1-F. He has short brown hair with his bangs placed in the left side. He as well wears glasses due to his weak eyesight.
 
