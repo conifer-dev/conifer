@@ -41,7 +41,7 @@ category = "categories"
 series = "series"
 
 [params]
-dateform = "Feb 11, 2006"
+dateform = "11 Feb, 2006"
 dateformShort = "Feb 11"
 dateformNum = "2006-01-02"
 dateformNumTime = "2006-01-02 15:04"
