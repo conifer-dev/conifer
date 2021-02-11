@@ -50,7 +50,7 @@ I don't want to bore you with introducing the rest of the characters that belong
 
 As you were to play the game, you were to be met with challenges. Choosing the wrong or different options would lead to various branches of the story, eventually resulting in three different endings that we will discuss later below.
 
-At this point, many people reading this can tell that this project was overly ambitious, and most certainly it was. There were no backgrounds (images to represent the current location of the player/story), no sound or music. The story carried on growing more complicated, branching out like a tree towards all possible directions. Overall I have to admit the fact that the game would be a massive flaw.
+At this point, many people reading this can tell that this project was overly ambitious, and most certainly it was. There were no backgrounds (images to represent the current location of the player/story), no sound or music. The story carried on growing more complicated, branching out like a tree towards all possible directions. Overall I have to admit the fact that the game would be a massive flop.
 
 **But why a flaw you ask?**
 
