@@ -34,6 +34,8 @@ As the game, I worked on back in 2013 never seen it's light. The art continued t
 
 Please get in touch if you ever create anything with the asset pack! I would love to see the characters live and shine once again.
 
+[Neat]({{< ref "posts/Life - The project lost in time.md" >}})
+
 [go]: https://golang.org/
 
 [gohtmltemplate]: https://golang.org/pkg/html/template/
